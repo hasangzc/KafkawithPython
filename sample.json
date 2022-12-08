@@ -1,0 +1,76 @@
+{
+    "scores": [
+        {
+            "home": "Magic",
+            "away": "Clippers",
+            "score": "ORL 116-111 LACOT"
+        },
+        {
+            "home": "Nets",
+            "away": "Hornets",
+            "score": "BKN 122-116 CHA"
+        },
+        {
+            "home": "Knicks",
+            "away": "Hawks",
+            "score": "NYK 113-89 ATL"
+        },
+        {
+            "home": "Raptors",
+            "away": "Lakers",
+            "score": "TOR 126-113 LAL"
+        },
+        {
+            "home": "Timberwolves",
+            "away": "Pacers",
+            "score": "MIN 121-115 IND"
+        },
+        {
+            "home": "Bulls",
+            "away": "Wizards",
+            "score": "CHI 115-111 WAS"
+        },
+        {
+            "home": "Grizzlies",
+            "away": "Thunder",
+            "score": "MEM 123-102 OKC"
+        },
+        {
+            "home": "Bucks",
+            "away": "Kings",
+            "score": "MIL 126-113 SAC"
+        },
+        {
+            "home": "Pelicans",
+            "away": "Pistons",
+            "score": "NOP 104-98 DET"
+        },
+        {
+            "home": "Jazz",
+            "away": "Warriors",
+            "score": "UTA 124-123 GSW"
+        },
+        {
+            "home": "Suns",
+            "away": "Celtics",
+            "score": "PHX 98-125 BOS"
+        }
+    ],
+    "upcoming_mathces": [
+        {
+            "home": "Heat",
+            "away": "Clippers",
+            "time": "3:30"
+        },
+        {
+            "home": "Spurs",
+            "away": "Rockets",
+            "time": "4:30"
+        },
+        {
+            "home": "Trail Blazers",
+            "away": "Nuggets",
+            "time": "6:00"
+        }
+    ]
+}
