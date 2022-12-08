@@ -9,7 +9,7 @@ the data and prints the remaining time as a notification.
 * Python 
 * Kafka
 
-### Check out the project flowchart!
+### Check out the project flowchart!
 
 
 <img src="project_schema.png" width=700 height=300>
