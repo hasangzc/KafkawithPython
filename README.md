@@ -10,4 +10,4 @@ the data and prints the remaining time as a notification.
 * Kafka
 
 ### Check out the project flowchart!
-<img src="project_schema.png" width=700 height=500>
+<img src="project_schema.png" width=500 height=400>
