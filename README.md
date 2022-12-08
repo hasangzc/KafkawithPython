@@ -13,3 +13,7 @@ the data and prints the remaining time as a notification.
 
 
 <img src="project_schema.png" width=700 height=300>
+
+
+## Sample output from project
+<img src="consumer_results.png" width=700 height=300>
